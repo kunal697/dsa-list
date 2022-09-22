@@ -8,7 +8,7 @@
 | ------ | ------ |------ |
 | Valid Parentheses | https://leetcode.com/problems/valid-parentheses/|https://leetcode.com/submissions/detail/709824466/ |
 | Linked List Cycle | https://leetcode.com/problems/linked-list-cycle/ |https://leetcode.com/submissions/detail/720976227/ |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |  |
+| |   |  |
 
 ### HARD
   
@@ -23,6 +23,6 @@
   
 | Title | Problem Link | Submission |
 | ------ | ------ |------ |
-|  Longest Substring Without Repeating Characters | [plugins/dropbox/README.md][PlDb] | |
-| GitHub | [plugins/github/README.md][PlGh] | |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |  |
+|  Longest Substring Without Repeating Characters |  | |
+|  |  | |
+ 
